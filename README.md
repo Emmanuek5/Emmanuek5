@@ -5,7 +5,7 @@
 - 📫 How to reach me emanuelandrew625@yahoo.com
 
 ## 🚀 About Me
-🔭 I’m currently working on The Blue Bot.
+🔭 I’m currently working on The Obsidianator.
 
 🌱 I’m currently learning Java.
 
