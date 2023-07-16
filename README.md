@@ -6,6 +6,7 @@
 
 ## 🚀 About Me
 🔭 I’m currently working on The Obsidianator.
+[![Add The Bot](https://discord.com/api/oauth2/authorize?client_id=1058300450253832272&permissions=8&scope=bot%20applications.commands)
 
 🌱 I’m currently learning Java.
 
