@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Blue Obsidian 👋</h2>
+<h2 align="center">Hi, I'm Emmanuel Andrew 👋</h2>
 
 <p align="center">
   Javascript Developer • Nigeria 🇳🇬 <br/>
@@ -32,8 +32,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emmanuek5&show_icons=true&theme=transparent&hide_border=true" height="150"/>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuek5&layout=compact&hide_border=true&bg_color=00000000&text_color=8B949E" />
 </p>
 
 ---
