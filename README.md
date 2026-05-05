@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Emmanuel Andrew 👋</h2>
+<h2 align="center">Hi, I'm Dave Sulle 👋</h2>
 
 <p align="center">
   Javascript Developer • Nigeria 🇳🇬 <br/>
