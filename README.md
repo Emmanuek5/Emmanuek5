@@ -4,7 +4,7 @@
   Javascript Developer • Nigeria 🇳🇬 <br/>
   Building scalable systems & creative tools
 </p>
-
+discord : .blueobsidian
 ---
 
 ### 🚀 About Me
